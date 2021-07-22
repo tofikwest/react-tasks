@@ -1,0 +1,26 @@
+[
+  {
+    "id": "27122440",
+    "name": "Asus ROG Strix G15 G512LI-HN058 (90NR0381-M01630) Black",
+    "image": "https://content.rozetka.com.ua/goods/images/big/27122440.jpg",
+    "description": "Екран 15.6' IPS (1920x1080) Full HD 144 Гц, матовий / Intel Core i5-10300H (2.5 — 4.5 ГГц) / RAM 16 ГБ / SSD 512 ГБ / nVidia GeForce GTX 1650 Ti, 4 ГБ / без ОД / LAN / Wi-Fi / Bluetooth / без ОС / 2.39 кг / чорний",
+    "price": 24999,
+    "isSale": false
+  },
+  {
+    "id": "180782890",
+    "name": "Asus ROG Strix G17 G713QE-HX023 (90NR05F2-M00630) Eclipse Gray",
+    "image": "https://content1.rozetka.com.ua/goods/images/big/180782890.jpg",
+    "description": "Екран 17.3' IPS (1920x1080) Full HD 144 Гц, матовий / AMD Ryzen 5 5600H (3.3 — 4.2 ГГц) / RAM 16 ГБ / SSD 512 ГБ / nVidia GeForce RTX 3050 Ti, 4 ГБ / без ОД / LAN / Wi-Fi / Bluetooth / без ОС / 2.4 кг / темно-сірий",
+    "price": 32999,
+    "isSale": true
+  },
+  {
+    "id": "174538382",
+    "name": "HP Pavilion 15-eh0005ua (34Q67EA) Silver",
+    "image": "https://content2.rozetka.com.ua/goods/images/big/174538382.jpg",
+    "description": "Екран 15.6' IPS (1920x1080) Full HD, матовий / AMD Ryzen 5 4500U (2.3 — 4.0 ГГц) / RAM 16 ГБ / SSD 512 ГБ / AMD Radeon Graphics / без ОД / Wi-Fi / Bluetooth / вебкамера / DOS / 1.75 кг / сріблястий",
+    "price": 17777,
+    "isSale": false
+  }
+]
